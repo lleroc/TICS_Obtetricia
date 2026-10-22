@@ -1,6 +1,6 @@
 {
   "project_id": "appgprj_6ada6dd899488191b3f959c8ee6a96f3",
   "static": {
-    "directory": "dist"
+    "directory": "."
   }
 }
